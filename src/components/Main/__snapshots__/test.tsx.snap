@@ -4,12 +4,14 @@ exports[`<Main /> should render the heading 1`] = `
 <div
   class="css-1xjsnt2"
 >
-  <h1>
+  <h2
+    class="chakra-heading css-0"
+  >
     <p
       class="chakra-text css-0"
     >
       My First Component
     </p>
-  </h1>
+  </h2>
 </div>
 `
