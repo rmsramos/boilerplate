@@ -1,11 +1,11 @@
-import { Flex, Text } from '@chakra-ui/react'
+import { Flex, Heading, Text } from '@chakra-ui/react'
 
 const Main = () => {
   return (
     <Flex w={'100vw'} h={'100vh'} align={'center'} justify={'center'}>
-      <h1>
+      <Heading>
         <Text>My First Component</Text>
-      </h1>
+      </Heading>
     </Flex>
   )
 }

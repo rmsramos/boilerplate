@@ -7,4 +7,4 @@ export default {
   component: Main
 } as ComponentMeta<typeof Main>
 
-export const Primary: ComponentStory<typeof Main> = () => <Main></Main>
+export const Primary: ComponentStory<typeof Main> = () => <Main />
