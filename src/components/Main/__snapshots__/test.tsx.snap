@@ -1,9 +1,15 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<Main /> should render the heading 1`] = `
-<main>
+<div
+  class="css-1xjsnt2"
+>
   <h1>
-    My first component
+    <p
+      class="chakra-text css-0"
+    >
+      My First Component
+    </p>
   </h1>
-</main>
+</div>
 `
